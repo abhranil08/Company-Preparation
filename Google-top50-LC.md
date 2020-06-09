@@ -1,37 +1,35 @@
 Top Google Questions
 
-Will be posting top linkedin ,top facebook,top amazon questions soon
+1. Two Sum (https://leetcode.com/problems/two-sum)
 
-Two Sum (https://leetcode.com/problems/two-sum)
+2. Insert Interval (https://leetcode.com/problems/insert-interval)
 
-Insert Interval (https://leetcode.com/problems/insert-interval)
+3. Text Justification (https://leetcode.com/problems/text-justification)
 
-Text Justification (https://leetcode.com/problems/text-justification)
+4. Minimum Window Substring (https://leetcode.com/problems/minimum-window-substring)
 
-Minimum Window Substring (https://leetcode.com/problems/minimum-window-substring)
+5. Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle)
 
-Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle)
+6. The Skyline Problem (https://leetcode.com/problems/the-skyline-problem)
 
-The Skyline Problem (https://leetcode.com/problems/the-skyline-problem)
+7. Maximal Square (https://leetcode.com/problems/maximal-square)
 
-Maximal Square (https://leetcode.com/problems/maximal-square)
+8. Meeting Rooms II (https://leetcode.com/problems/meeting-rooms-ii)
 
-Meeting Rooms II (https://leetcode.com/problems/meeting-rooms-ii)
+9. Find Median from Data Stream (https://leetcode.com/problems/find-median-from-data-stream)
 
-Find Median from Data Stream (https://leetcode.com/problems/find-median-from-data-stream)
+10. Bulls and Cows (https://leetcode.com/problems/bulls-and-cows)
 
-Bulls and Cows (https://leetcode.com/problems/bulls-and-cows)
+11. Count of Smaller Numbers After Self (https://leetcode.com/problems/count-of-smaller-numbers-after-self)
 
-Count of Smaller Numbers After Self (https://leetcode.com/problems/count-of-smaller-numbers-after-self)
+12. Longest Increasing Path in a Matrix (https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 
-Longest Increasing Path in a Matrix (https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
-
-Longest Substring with At Most K Distinct Characters
+13. Longest Substring with At Most K Distinct Characters
 (https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)
 
-Moving Average from Data Stream (https://leetcode.com/problems/moving-average-from-data-stream)
+14. Moving Average from Data Stream (https://leetcode.com/problems/moving-average-from-data-stream)
 
-Logger Rate Limiter (https://leetcode.com/problems/logger-rate-limiter)
+15. Logger Rate Limiter (https://leetcode.com/problems/logger-rate-limiter)
 
 Design Hit Counter (https://leetcode.com/problems/design-hit-counter)
 
@@ -60,7 +58,9 @@ Split Array into Consecutive Subsequences (https://leetcode.com/problems/split-a
 Minimum Window Subsequence (https://leetcode.com/problems/minimum-window-subsequence)
 
 Network Delay Time (https://leetcode.com/problems/network-delay-time)
+
 Open the Lock (https://leetcode.com/problems/open-the-lock)
+
 Expressive Words (https://leetcode.com/problems/expressive-words)
 
 Find And Replace in String (https://leetcode.com/problems/find-and-replace-in-string)
