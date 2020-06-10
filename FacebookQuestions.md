@@ -1,63 +1,130 @@
 1. Phone Screen:
 
 https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
 A string / array problem involving distinct characters and window
+
+
 https://leetcode.com/problems/shortest-bridge/
+
+
 https://leetcode.com/problems/partition-equal-subset-sum/
+
+
 https://leetcode.com/problems/valid-palindrome-ii/
+
+
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+
 You are given a mn grid. You are asked to generate k mines on this grid randomly. Each cell should have equal probability of k / mn of being chosen. Your algorithm should run in O(m) time.
+
 https://leetcode.com/problems/continuous-subarray-sum/
 (Given a list of positive numbers and a target integer k, write a function to check if the array has a continuous subarray which sums to k.)
+
 https://leetcode.com/problems/verifying-an-alien-dictionary/
+
+
 https://leetcode.com/problems/alien-dictionary/
+
+
 https://leetcode.com/problems/course-schedule/
+
+
 https://leetcode.com/problems/interval-list-intersections/
+
+
 https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+
+
 https://leetcode.com/problems/plus-one/
+
+
 https://www.***.org/find-index-maximum-occurring-element-equal-probability/
+
+
 https://leetcode.com/problems/range-sum-of-bst/
+
+
 Similar strings ("face", "eacf") returns true if only 2 positions in the strings are swapped. Here 'f' and 'e' are swapped in the example.
+
+
 Number Of connected components in a Graph
+
 https://leetcode.com/problems/add-binary/
+
 Given two binary search trees how do we merge everything so it prints inorder. The answer I gave was to run inorder on both trees and use "merge" from merge-sort.
+
 https://leetcode.com/problems/valid-palindrome
+
 https://leetcode.com/problems/add-strings
+
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+
 https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+
 https://leetcode.com/problems/binary-tree-paths
+
 https://leetcode.com/problems/minimum-window-substring
+
 How to remove duplicates from a list
+
 https://leetcode.com/problems/maximum-subarray
+
 https://leetcode.com/problems/valid-parentheses
+
 https://leetcode.com/problems/merge-intervals
 
 2. Coding Round 1:
 
 https://leetcode.com/problems/insert-interval/
+
 https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+
 https://leetcode.com/problems/rotate-array/
+
 https://leetcode.com/problems/k-closest-points-to-origin/
+
 https://leetcode.com/discuss/interview-question/124759/
+
 https://leetcode.com/problems/product-of-array-except-self
+
 https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
 https://leetcode.com/problems/minimum-window-substring/
+
 https://www.***.org/find-closest-element-binary-search-tree/
+
 https://leetcode.com/problems/insert-delete-getrandom-o1/
+
 https://leetcode.com/problems/fraction-to-recurring-decimal/
+
 https://leetcode.com/problems/powx-n
+
 https://leetcode.com/problems/subarray-sum-equals-k
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+
 https://leetcode.com/problems/add-and-search-word-data-structure-design
+
 https://leetcode.com/problems/sudoku-solver/
+
 https://leetcode.com/discuss/interview-question/338948/Facebook-or-Onsite-or-Schedule-of-Tasks
+
 https://leetcode.com/problems/binary-tree-maximum-path-sum
+
 https://leetcode.com/problems/maximum-subarray
+
 https://leetcode.com/problems/move-zeroes
+
 https://leetcode.com/problems/valid-number
+
 https://leetcode.com/problems/first-bad-version/
 
 3. Coding Round 2:
