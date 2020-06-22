@@ -150,18 +150,31 @@ https://leetcode.com/problems/simplify-path/
 n-ary Tree with each node having a boolean flag. Traverse all the nodes with only boolean flag = True. Return the total distance traveled from root to all those nodes.
 
 https://leetcode.com/problems/product-of-array-except-self/
+
 https://leetcode.com/discuss/interview-question/432086/Facebook-or-Phone-Screen-or-Task-Scheduler/394783
+
 https://leetcode.com/problems/find-all-anagrams-in-a-string
+
 https://leetcode.com/problems/is-graph-bipartite
+
 https://leetcode.com/problems/merge-sorted-array
+
 https://leetcode.com/problems/maximum-subarray
+
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+
 https://leetcode.com/problems/remove-invalid-parentheses/
+
 https://leetcode.com/problems/subarray-sum-equals-k/
+
 https://leetcode.com/problems/binary-tree-level-order-traversal/
+
 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+
 https://leetcode.com/problems/custom-sort-string
+
 https://leetcode.com/problems/read-n-characters-given-read4
+
 https://leetcode.com/problems/remove-invalid-parentheses
 https://leetcode.com/problems/palindrome-permutation
 https://leetcode.com/problems/max-consecutive-ones-iii
